@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Moderate E2E Automated Scenario. Create User with unique email address, then verify if email address used is displyed and if the MayDashboard page displays</description>
+   <name>Moderate - Create User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67d21384-4faf-4f79-89f5-e954918d2ec9</testCaseGuid>
+</TestCaseEntity>
